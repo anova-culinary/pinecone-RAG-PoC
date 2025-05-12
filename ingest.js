@@ -17,6 +17,12 @@ if (!fs.existsSync(pdfPath)) {
     process.exit(1);
 }
 
+const docName = process.argv[3];
+if (!docName) {
+  console.error('No document name provided.')
+  process.exit(1)
+}
+
 try {
     // Read PDF file into a buffer
     const pdfBuffer = fs.readFileSync(pdfPath);
@@ -69,7 +75,7 @@ try {
         if (!textChunk || textChunk.trim() === "") continue;
 
         // Generate a unique ID for the vector (could be based on page and index)
-        const vectorId = `page${pageNum || 'X'}-chunk${i}`;
+        const vectorId = `${docName}-page${pageNum || 'X'}-chunk${i}`;
 
         try {
             // Request sparse vector embedding from Pinecone Inference API
