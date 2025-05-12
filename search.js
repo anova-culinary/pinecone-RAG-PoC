@@ -1,16 +1,18 @@
 import { Pinecone } from '@pinecone-database/pinecone'
 import 'dotenv/config'
+import axios from 'axios'
 
 const API_KEY = process.env.PINECONE_API_KEY
 const INDEX_NAME = process.env.PINECONE_INDEX_NAME
 const INDEX_HOST = process.env.PINECONE_INDEX_HOST
 const NAMESPACE = process.env.PINECONE_NAMESPACE
 const EMBEDDING_MODEL = process.env.PINECONE_EMBEDDING_MODEL
+const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY
 
 const pinecone = new Pinecone({ apiKey: API_KEY })
 const index = pinecone.index(INDEX_NAME, INDEX_HOST).namespace(NAMESPACE)
 
-const userPrompt = process.argv[2] || "What are the health benefits of eating apples?"
+const userPrompt = process.argv[2] || "How to cook with steam?"
 if (!userPrompt) {
   console.error('No user prompt provided.')
   process.exit(1)
@@ -24,18 +26,28 @@ if (!userPrompt) {
       [userPrompt],
       { inputType: "query" }
     )
-    // The embedResponse is an array take the first element as our query vector
-    const sparseEmbedding = embedResponse[0]
-    // sparseEmbedding should contain the sparse vector representation (indices and values)
+    // Log the structure of the embedding response to understand the format
+    // console.log('Embedding Response:', JSON.stringify(embedResponse, null, 2))
 
-    // 2. Query the Pinecone index with the embedded prompt to get top relevant documents
-    const queryRequest = {
+    // Get the first element from the data array in the response
+    const embedResult = embedResponse.data[0]
+
+    // 2. Query the Pinecone index with the embedded prompt
+    const queryOptions = {
       topK: 5,                 // number of top matches to retrieve
       includeMetadata: true,   // include metadata (e.g., text) of the matches
-      namespace: NAMESPACE,    // optional namespace if used
-      sparseVector: sparseEmbedding  // use the sparse embedding for the query
+    };
+
+    // Add sparseVector from the embedding response
+    if (embedResult && embedResult.sparseIndices && embedResult.sparseValues) {
+      queryOptions.sparseVector = {
+        indices: embedResult.sparseIndices,
+        values: embedResult.sparseValues
+      };
     }
-    const queryResponse = await index.query({ queryRequest })
+
+    // console.log('Query options:', JSON.stringify(queryOptions, null, 2));
+    const queryResponse = await index.query(queryOptions);
     const matches = queryResponse.matches ?? []
 
     // 3. Extract contextual data from top matches
@@ -51,10 +63,37 @@ if (!userPrompt) {
       contextSection = "Context:\n" + contextSnippets.join("\n") + "\n\n"
     }
     // Construct the final prompt with context prepended
-    const finalPrompt = `${contextSection}Question: ${userPrompt}\nAnswer:`
+    const finalPrompt = `${contextSection}Question: ${userPrompt}`
 
     // Output the final prompt (this would be sent to the LLM for answer generation)
     console.log("Final Prompt for LLM:\n", finalPrompt)
+
+    // 5. Send the final prompt to the LLM (Anthropic API)
+    const claudeResponse = await axios.post(
+      'https://api.anthropic.com/v1/messages',
+      {
+        model: 'claude-3-7-sonnet-20250219',
+        max_tokens: 1024,
+        messages: [
+          {
+            role: 'user',
+            content: finalPrompt
+          }
+        ]
+      },
+      {
+        headers: {
+          'Content-Type': 'application/json',
+          'x-api-key': ANTHROPIC_API_KEY,
+          'anthropic-version': '2023-06-01'
+        }
+      }
+    );
+
+    // Extract the assistant's response
+    const finalAnswer = claudeResponse.data.content[0].text;
+    console.log("Final Generated Answer:\n", finalAnswer)
+
   } catch (err) {
     console.error("Error during RAG prompt construction:", err)
   }
