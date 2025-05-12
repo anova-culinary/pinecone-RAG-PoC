@@ -1,0 +1,1437 @@
+
+
+USER MANUAL2EN
+MANUEL D’UTILISATION22FR
+PRECISION™
+OVEN 2.0
+MODEL:
+AN950-10
+
+ENGLISH
+2
+CONTENTS
+WELCOME TO THE ANOVA PRECISION™ OVEN! ...................................................................................   2
+WARNINGS AND SAFETY INFORMATION................................................................................................   4
+SPECIFICATIONS ............................................................................................................................................   6
+ACCESSORIES .................................................................................................................................................   9
+GET STARTED ..................................................................................................................................................   10
+GET CONNECTED ..........................................................................................................................................   11
+COOKING MODES ..........................................................................................................................................   12
+FEATURES ........................................................................................................................................................   14
+USING THE FOOD PROBE THERMOMETER ............................................................................................   15
+CONVERTING RECIPES IN CUSTOM MODE ............................................................................................   16
+CARE AND CLEANING ..................................................................................................................................   18
+FCC/IC COMPLIANCE ....................................................................................................................................   20
+WARRANTY ......................................................................................................................................................   21
+
+3
+ 
+WELCOME TO THE ANOVA PRECISION™ OVEN!
+Cooking with the Anova Precision™ Oven 2.0 is a bit like a choose-your-own-adventure novel. Whether you’re 
+looking for simple sheet pan meals, bagless sous vide steaks, professional-level bread baking, or something 
+in between, this oven is perfect for you. Get cooking quickly with ingredient guides using camera-based food 
+recognition, or browse hundreds of unique recipes in the app. 
+Keep an eye out in the app as we’re regularly releasing new recipes, educational content, and over-the-air 
+updates to keep you and your oven cooking at your best. 
+We’d love to see what creations you come up with, so keep in touch via any of the #AnovaFoodNerd 
+communities on our website and social channels. 
+Full steam ahead!
+The Anova Team
+MAX
+MIN
+
+4
+WARNINGS AND SAFETY INFORMATION
+CHILDREN AND VULNERABLE PEOPLE 
+SAFETY
+ ⊲This Oven can be used by children aged 8 
+years and above and persons with reduced 
+physical, sensory, or mental capabilities or lack 
+of experience and knowledge if they have been 
+given supervision or instruction concerning the 
+use of the Oven in a safe way and understand the 
+hazards involved.
+ ⊲Do not let children play with the Oven.
+ ⊲Keep all packaging away from children and 
+dispose of it appropriately.
+ ⊲Keep children and pets away from the Oven when 
+it operates or when it cools down. Accessible 
+parts are hot.
+ ⊲Children shall not carry out cleaning and user 
+maintenance of the Oven without supervision.
+ ⊲Children aged 3 years and under must be kept 
+away from the Oven when it is in operation at all 
+times.
+GENERAL SAFETY WARNINGS
+ ⊲The Oven and its accessible parts become 
+hot during use. Care should be taken to avoid 
+touching heating elements. Keep children less 
+than 8 years of age away from the oven unless 
+continuously supervised.
+ ⊲Always use oven gloves to remove or put in 
+accessories or ovenware.
+ ⊲Always unplug the oven before maintenance to 
+avoid the possibility of electric shock.
+ ⊲Do not use a steam cleaner to clean the Oven.
+ ⊲Do not use harsh abrasive cleaners or sharp 
+metal scrapers to clean the glass door since 
+they can scratch the surface, which may result in 
+shattering of the glass.
+ ⊲If the main power supply cable is damaged, 
+do not attempt to plug in. Contact support 
+immediately.
+ ⊲Only use the food probe included with this Oven.
+INSTALLATION
+ ⊲Remove all the packaging and labels.
+ ⊲Do not install or use a damaged Oven.
+ ⊲Always take care when moving the Oven as it is 
+heavy. Always wear enclosed footwear.
+ ⊲Do not pull or lift the Oven by the door handle.
+ ⊲Keep a minimum distance of 4 inches from other 
+Ovens and units, walls, or cabinets.
+ELECTRICAL CONNECTION
+ ⊲The Oven must be plugged into a grounded 
+outlet.
+ ⊲Plug directly into a wall outlet.
+ ⊲Do not use multi-plug adapters and/or extension 
+cables.
+ ⊲The Oven should not share a circuit with other 
+major appliances, such as a refrigerator or toaster 
+oven, that might be running at the same time as 
+the Oven.
+USAGE
+ ⊲This is a cooking appliance. Parts and 
+accessories will be hot when in use. Use oven 
+gloves and trivets to protect hands and surfaces 
+from burns. Handle hot items carefully.
+ ⊲The Oven is for household use only.
+ ⊲Do not change the specification of the Oven.
+ ⊲Do not leave children alone or unattended in the 
+area while the Oven is in use.
+ ⊲Make sure that the ventilation openings are not 
+blocked. The area around the vents will be hot 
+during and after use.
+ ⊲Stand to the side and be careful when you open 
+the door while the Oven is in operation. Hot air 
+and steam can be released. If using ingredients 
+containing alcohol, be especially careful as the 
+vapors are flammable.
+ ⊲Do not apply pressure or rest items on the open 
+door.
+Before the installation and use of the Oven, carefully read the supplied instructions. The manufacturer is not 
+responsible for any injuries or damage that are the result of incorrect installation or usage. Always keep the 
+instructions in a safe and accessible location for future reference.
+ENGLISH
+
+5
+WARNINGS AND SAFETY INFORMATION 
+ ⊲Do not use the Oven as a work surface or as a 
+storage surface.
+ ⊲Do not put flammable products or items that are 
+wet with flammable products in, near or on the 
+Oven.
+ ⊲To prevent damage or discoloration to the steel:
+ ⊲ do not put ovenware or other objects directly 
+on the bottom of the Oven.
+ ⊲do not put aluminum foil directly on the 
+bottom of the Oven.
+ ⊲do not keep moist dishes and food in the 
+Oven after you finish cooking.
+ ⊲be careful when you remove or install the 
+accessories.
+ ⊲Discoloration of the steel has no effect on the 
+performance of the Oven.
+ ⊲Use a deep pan for moist cakes to prevent 
+overflow. Fruit juices cause stains that can be 
+permanent.
+ ⊲The Oven is for cooking purposes only. It must 
+not be used for other purposes such as room 
+heating.
+ ⊲Always cook with the oven door closed.
+ ⊲Do not position the oven behind a furniture panel 
+(e.g. a door) as heat and moisture can build up 
+during operation that could cause subsequent 
+damage to the Oven, housing unit, or floor.
+STEAM COOKING
+ ⊲Even when cooking without steam, steam may 
+emerge from the exhaust outlet between the 
+tanks and door.
+ ⊲Released steam can cause burns. Stand to the 
+side and be careful when you open the door 
+when the steam function is activated or after 
+steam cooking. Keep bare hands and face away.
+ ⊲Do not use the Oven close to cabinetry. 
+Excessive steam can cause damage to furniture 
+and cabinetry.
+MAINTENANCE
+ ⊲Before maintenance, unplug the Oven and 
+disconnect the plug from the power outlet.
+ ⊲Make sure the Oven is cold. There is a risk that 
+the glass panels may break if cleaned while hot.
+ ⊲If the door glass panels become damaged or 
+break, contact support immediately.
+ ⊲Clean the Oven regularly to prevent deterioration 
+of the surface material.
+ ⊲Do not clean with any abrasive cleaning materials 
+or agents, or with metal objects.
+ ⊲If you use an oven spray, follow the safety 
+instructions on the packaging.
+SERVICE
+Contact Anova customer service:
+ ⊲support@anovaculinary.com
+ ⊲https://support.anovaculinary.com
+
+ENGLISH
+6
+SPECIFICATIONS
+MAX
+MIN
+12
+3
+4
+5
+1. Control panel
+2. Handle
+3. Water tank
+4. Waste water tank
+5. Drip tray
+
+7
+SPECIFICATIONS 
+1
+2
+3
+4
+5
+6
+10
+11
+11
+9
+8
+7
+1413
+15
+16
+12
+17
+6. Top heating element
+7.   Bottom heating element / Evaporator
+8. Rear heating element / Convection fan
+9. Steam inlet
+10. Wet bulb temperature sensor
+11. Dry bulb temperature sensors
+12. Dry air inlet
+13. Food probe port
+14. Camera
+15. Cavity light
+16. Cooking lights
+17. Tray positions (5)
+
+ENGLISH
+8
+SPECIFICATIONS CONTINUED
+EXTERNAL DIMENSIONS
+22.9 in x 14.1 in x 20.0 in
+582 mm x 358 mm x 508 mm
+WEIGHT
+51.8 lbs 
+23.5 kg
+INTERIOR DIMENSIONS
+16.4 x 10 x 12.4in
+417 mm x 254 mm x 320 mm
+INTERIOR VOLUME
+1.2 cu ft
+38 L
+WATER TANK VOLUME
+10 cups
+2.4 L
+WASTE TANK VOLUME
+2 cups
+0.5 L
+SENSORS
+2x dry bulb (ambient) sensors
+1x wet bulb sensor
+1x Food Probe
+1x Steam Boiler Sensor
+Camera: 1080 x 1920
+TEMPERATURE RANGE
+77 – 482 °F
+25 – 250 °C
+STEAM CONTROL
+0–100 %
+DISPLAY
+5 inch IPS panel
+16.7M colors
+720 x 1280
+CONNECTIVITY
+WiFi 2.4 & 5 GHz
+POWER
+120 V / 60 Hz / 1800 W
+PAN SIZES
+Up to 12 in x 15 in
+300 mm x 380 mm
+
+9
+ACCESSORIES
+WIRE RACK (2)
+SOLID PAN
+FOOD PROBE
+Rear
+Front
+
+ENGLISH
+10
+GET STARTED
+The Oven is a countertop appliance. When finding a place 
+for your Oven, ensure it has a minimum of 2 inches (5cm) of 
+space on all sides and 4 inches (10cm) of space above the 
+oven and there is an outlet close by.
+Remove all tape and packaging from your oven before first 
+use. 
+During initial setup you will be prompted to complete heating element preparation. Make sure the Oven is 
+situated in a well-ventilated area. Some vapor and odors are normal during the first cycle.
+Clean the Oven and the accessories before first use.
+It is recommended you use distilled water to minimize scale buildup and maintain the 
+correct operating function.
+MAX
+MIN
+Attach the drip tray with the bowl side facing up under the 
+door. It should click into place.
+There are two water tanks. The fresh water tank (upper), 
+and the waste water tank (lower). Both water tanks may be 
+removed by pushing the tank toward the back of the oven 
+until you trigger the click-in/click-out mechanism. The tanks 
+will pop out of the oven case and can slide out freely
+Clean the upper tank before first use. Do not fill beyond the 
+MAX water line. Return the water tank to the Oven and click 
+into place.
+The lower tank will catch any excess moisture that is not 
+exhausted. It is also used during the descale process.
+
+11
+GET CONNECTED
+The Anova Precision™ Oven 2.0 requires a WiFi connection to receive software updates. An active 
+subscription is required to access the latest guides, cooking modes, camera functionality, and recipes and to 
+track your cook history on your oven. 
+Follow the instructions on the screen and in the app to set up your Oven. 
+To download the Anova Oven app and subscribe, please scan the QR code.
+NOTE: Wi-Fi connection, app, and subscription are not required to use the oven. However, some functions 
+may not be available with manual use.
+
+ENGLISH
+12
+COOKING MODES
+MODETEMPERATURESTEAMDESCRIPTION
+Sous Vide
+75–208°F
+(25–98°C)
+100%
+Sous Vide ensures edge-to-edge perfection when 
+cooking proteins and more — without a bag or water 
+bath. It uses the wet bulb temperature sensor to 
+measure the surface temperature of your food; when 
+you set your oven temperature, it will be the same 
+as what your food is experiencing, just like in a sous 
+vide water bath. For faster cooking, set the oven 
+temperature 5 to 20°F (3 to 11°C) higher than the probe.
+Dry Sous 
+Vide
+75–197°F
+(25–92°C)
+Off
+Dry Sous Vide ensures edge-to-edge perfection when 
+cooking skin-on proteins — without a bag or water 
+bath. Cooking sous vide with steam off keeps the skin 
+of proteins like chicken or fish dry and ready to brown. 
+For faster cooking, set the oven temperature 5 to 20°F 
+(3 to 11°C) higher than the probe. This setting should 
+only be used for cooks around 4 hours or shorter. Don’t 
+use with bagged foods.
+Convection 
+Bake
+212–482°F
+(100–250°C)
+Off
+Convection Bake uses the rear heat and a high 
+convection fan for efficient heat circulation. This setting 
+is very versatile and can be used for everything from 
+baked goods to proteins. Convection baking is perfect 
+when you want to quickly cook foods, like chicken, with 
+a crisp exterior and juicy interior.
+Steam Bake
+212–482°F
+(100–250°C)
+10–100%
+Steam Bake adds steam to the convection bake 
+settings. Adding steam to a hot oven further increases 
+the oven’s efficiency and helps to promote moisture 
+retention. The moderate amount of steam added in this 
+cooking mode still allows for browning on foods like 
+broccoli while maintaining a tender interior.
+Air Fry
+212–482°F
+(100–250°C)
+Off
+Air Frying combines top and rear heat and the 
+convection fan to quickly brown and crisp foods. It 
+works great for dishes you’d normally deep fry, in 
+addition to preparations like roasted cauliflower, which 
+benefit from high, dry heat to prevent the vegetable 
+turning soggy
+Each cook mode has been developed to provide simple and clear options to get cooking quickly. Below is a 
+detailed list of each mode, its options, and tips on when/how to use it.
+
+13
+COOKING MODES 
+MODETEMPERATURESTEAMDESCRIPTION
+Steam Roast
+212–482°F
+(100–250°C)
+10–100%
+Steam Roasting uses the power of hot, moist air, 
+combined with the convection fan and top and rear 
+heat, to quickly and efficiently transfer heat and 
+promote browning. For proteins like dark meat chicken, 
+it can even help achieve a tender, fall-apart interior with 
+crisp, browned skin.
+Bake
+212–482°F
+(100–250°C)
+Off
+The bake setting uses the top and bottom heat to 
+replicate a traditional oven. In addition to helping 
+perfect your favorite baked goods, this mode is also 
+ideal for making your morning toast, bagels, and 
+English muffins.
+Broil
+400–482°F
+(204–250°C)
+Off
+Broiling uses the top heating element and high heat to 
+quickly brown foods without the use of steam. You can 
+choose to use the convection fan in this mode for even 
+more efficient heat circulation, or turn it off for a result 
+similar to a traditional broiler.
+Steam
+200–220°F
+(93–104°C)
+100%
+Steaming uses 100% steam and an oven temperature 
+near to the boiling point of water to replicate the 
+stovetop steaming process for vegetables, dumplings, 
+and rice. Adjust the oven temperature up or down 
+depending on how gently you’d like the food cooked.
+Proof
+75–100°F
+(25–38°C)
+0–100%
+Turn your oven into an efficient proofing box using 
+low temperature and, if desired, steam. Increase the 
+temperature up to 90°F (32°C) for sweet doughs or 
+to speed up proofing time if you’re in a hurry. NOTE: 
+Temperature and humidity cannot be held lower than 
+the ambient conditions in the room.
+Dehydrate
+75–165°F
+(25–74°C)
+Off
+Combining a relatively low cooking temperature with 
+the bottom heating element and the fan enables you to 
+use the oven as a dehydrator for jerky, dried fruit, and 
+more.
+Manual
+75–482°F
+(25–250°C)
+0–100%
+If you want ultimate control over settings, Manual is 
+the answer. You can define the heating elements, 
+fan speed, sous vide mode, and more. Certain 
+combinations may not be possible, such as rear heat 
+with fan off.
+
+14
+FEATURES
+GUIDED COOKING
+COOK HISTORY
+PERSONALIZED EXPERIENCE
+CAMERA AND FOOD RECOGNITION
+The guides section is a perfect place to get started and learn about the ideal methods for cooking your 
+favorite ingredients. With a growing list of options, you’ll be able to explore everything from how to cook a 
+perfect roast chicken to steaming crisp-tender vegetables, making golden brown toast, and more.
+You have access to your full cook history right on the oven. You can recall previously prepared recipes, 
+guides, and manual cooks whenever you need them.
+You can edit the order of the home screen to match your preferences and most used cooking modes. Simply 
+scroll through the screen and tap the “edit order” button. Set your preferred volume, brightness, temperature 
+unit (Fahrenheit or Celsius), and oven light functionality in settings.
+The oven’s high-definition camera has multiple functions, including food recognition, to provide the best 
+possible cooking experience. With a growing list of items the oven can identify, you will be able to get 
+cooking immediately. 
+ ⊲To use the camera for cooking, simply insert your prepped and seasoned food into the oven. The camera 
+will recognize the food and suggest the best ways to cook it using the optimal oven settings. Select your 
+desired doneness (if applicable) and hit start. No need to heat the oven first.
+ADDITIONAL CAMERA FEATURES
+ ⊲A timelapse of your cook is automatically generated after a cook is finished. Save this as part of your own 
+recipe or share it with your friends and family.
+ ⊲Keep your oven up to date for access to the latest features.
+NOTE: For best results, wipe the camera enclosure after each use.
+ENGLISH
+
+15
+ 
+USING THE FOOD PROBE THERMOMETER
+The food probe gives a live reading of the core temperature of the food, and in order to give the most 
+accurate result, it is important to insert it correctly. The temperature sensor is located in the tip of the food 
+probe, so this section of the probe should be inserted into the center of the food. The food probe measures 
+core temperature up to 212°F (100°C).
+For boneless roasts and smaller items like steak, 
+chicken breast, and fish, lay the probe on top of the 
+food to find the depth to which you need to insert it in 
+order to reach the center of the thickest area. Once 
+you have this, use your fingers to mark the location 
+on the probe and insert it into the food from the side, 
+through and into the thickest section. For bone-in 
+roasts, use the same insertion technique, but be sure 
+to avoid touching the bone with the probe.
+For whole poultry like chicken, turkey, and duck, insert 
+the food probe into the thickest part of one of the 
+breasts using the same technique outlined above.
+
+ENGLISH
+16
+CONVERTING RECIPES IN CUSTOM MODE
+The Anova Precision Oven’s Custom Mode offers the ability to control each and every setting. This can be 
+useful if you’re converting your favorite recipes to the Precision Oven, but there are lots of components to 
+think about. No matter the settings, you’ll want to monitor your food closely the first time you adapt a recipe 
+so that you do not overcook the food.
+Here are some good places to start.
+SOUS VIDE
+If you’re adapting a traditional oven recipe to the Precision Oven, don’t worry about sous vide mode. Simply 
+press the Sous Vide icon to turn it OFF. If you’re converting a sous vide recipe, we recommend using the Sous 
+Vide or Dry Sous Vide Cooking Modes.
+HEATING ELEMENTS AND RACK PLACEMENTS
+The Precision Oven defaults to the rear heating element for all manual cooks; this is a good heating element 
+to start with when you’re converting recipes. If you find that you’d like more browning on the top of your food, 
+add the top heating element the next time you cook. And if you are noticing that your food isn’t brown enough 
+on the bottom, switch to either top+bottom or rear+bottom heating elements. We recommend using the 3rd 
+oven rack placement for most foods. Move your food closer to or further away from the heating elements as 
+needed to increase or decrease browning.
+OVEN TEMPERATURE, CONVECTION, AND STEAM
+The Precision Oven allows you to add steam and/or the convection fan to your cooks, and both of these 
+elements increase the efficiency of the cooking process. If you add the convection fan, first try decreasing 
+the oven temperature by 25°F (14°C) and then start checking for doneness 5 to 10 minutes sooner than you 
+normally would. The convection fan will default to high; we recommend leaving it at this setting unless you 
+notice that the fan is drying out the food or causing a delicate food, such as a souffle, to deflate.
+You can further increase efficiency by cooking with steam. Like convection heat, steam speeds up heat 
+transfer and can also decrease cooking time. We recommend starting with a relatively small amount of 
+steam (10 to 50%). When adding steam to a non-sous vide cook, you can think about the percentage as the 
+continuous steam output; 100% steam will be the maximum output of steam possible for the entire cook, 
+while lower percentages will be fractions of that output. (For more details on steam usage, visit https://
+anovaculinary.com).
+You can also use the oven to prepare foods that are traditionally steamed, such as artichokes, bao, or rice. We 
+recommend using the Steam Cooking Mode for these dishes. Steamed foods do best when the air and steam 
+are allowed to circulate on all sides. If you have a perforated pan, use it. For larger items, such as artichokes, 
+you can steam directly on an oven rack. If you don’t have a perforated pan and are steaming smaller or more 
+fragile items, you can instead place the food on a wire rack and set that directly on the oven rack. Placing 
+a sheet pan on the lowest oven rack can help catch drips and make the oven easier to clean, but it is not 
+necessary. Rice works best if it is steamed in a thin layer. Use a sheet pan or large baking dish.
+For bread recipes, a multi-stage cook can replicate a professional oven by using the Steam Bake Cooking 
+Mode to start the baking process and improve oven spring. Afterwards, use the Convection Bake Cooking 
+Mode to brown and finish baking the bread. Proofing can be incorporated into a recipe program in the app by 
+creating a three-stage cook, starting with the Proof Cooking Mode.
+
+17
+CONVERTING RECIPES IN CUSTOM MODE 
+If you don’t add convection or steam, you can keep the times and temps the same as your traditional recipe; 
+however, due to the higher level of precision control and smaller cavity size, we recommend checking 5 to 10 
+minutes earlier than the recipe suggests. 
+FOOD PROBE
+If you’re cooking protein, you can utilize the food probe to ensure precision. If you’re using a relatively high 
+oven temperature, you won’t get the same edge-to-edge even doneness as with Sous Vide Mode, but you 
+will know exactly when the protein has reached its perfect doneness. You can even use the probe to monitor 
+doneness with some baked goods, although it will be difficult to insert securely in batter-based recipes.
+TYPETEMP TIME STEAMHEATING RACKPROBEFANSV MODE
+Roasting-25°F 
+(-14°C)
+-5 to 10 
+minutes
+10–50%Rear 
+or
+Top + Rear
+3Yes or 
+No
+Ye sNo
+Baking-25°F 
+(-14°C)
+-5 to 10 
+minutes
+10–50%Rear 
+or 
+Top + 
+Bottom
+3NoYes or 
+No
+No
+Steamingboiling 
+point of 
+water
+None100%RearAnyYes or 
+No
+Ye sYes or No
+Bread-25°F 
+(-14°C)
+-5 to 10 
+minutes
+100% first 
+stage, 0% 
+second 
+stage
+Rear 
+or 
+Top + 
+Bottom
+1, 2, or 
+3
+NoYe sNo
+QUICK GUIDE TO TRADITIONAL OVEN CONVERSIONS
+
+ENGLISH
+18
+CARE AND CLEANING
+NOTES ON CLEANING
+ ⊲Make sure the Oven is completely cool before cleaning.
+ ⊲Clean the front of the Oven using a soft cloth with warm water and a mild cleaning agent.
+ ⊲To clean metal surfaces, use a stainless steel cleaner.
+ ⊲In case of scale build-up on the bottom of the interior, use a few drops of distilled vinegar mixed with warm 
+water and a soft sponge to clean.
+ ⊲Clean the Oven interior after each use. Fat accumulation or other food remains may result in a fire. 
+ ⊲Clean stubborn stains with an oven cleaner.
+ ⊲Do not use abrasive sponges or aggressive detergents. They can cause damage to the stainless-steel parts.
+ ⊲The top heating element can be rotated down for easier cleaning. Locate 
+the clip in the center of the heating element and gently pull it forward to 
+unhook. Rotate the element down. Once cleaned, rotate the element back 
+up and press it into place until you hear a “snap” sound.
+ ⊲The bottom heating element can also be rotated up for easy cleaning. 
+Once cleaned, rotate the element back down until it is in contact with the 
+bottom of the oven.
+ACCESSORIES
+ ⊲Clean the food probe with a sponge, warm water, and dish soap. Do not submerge the probe in water or put 
+it in the dishwasher.
+ ⊲Clean the included pan and wire racks in the dishwasher or by hand. Do not use abrasive cleaning agents, 
+scrubbers, or sharp-edged objects. These can cause damage to the stainless steel.
+ ⊲Clean all accessories after each use and let them dry.
+ ⊲Check and empty the waste water tank and drip tray before and after each cook to ensure it does not 
+overflow.
+
+19
+ 
+WATER TANKS 
+ ⊲Both water tanks may be removed by pushing the tank toward the back of the oven until you trigger the 
+click-in/click-out mechanism. The tanks will pop out of the oven case and slide out freely for cleaning and 
+filling.
+ ⊲Remove the lid of the water tanks by lifting them directly up. DO NOT lift from one end or the other.
+ ⊲Gently wash the water tanks and lids with a soft cloth or non-abrasive sponge, warm water, and dish soap. 
+Rinse and let dry.
+    DO NOT USE ABRASIVE SPONGES. DO NOT PUT WATER TANKS INSIDE A  
+              DISHWASHER.
+ ⊲Replace the lid and slide the tank back into the appropriate channel on the left side of the oven. Fill with 
+distilled water using the fill hole. Push until the click-in mechanism locks it in place.
+ ⊲Slide the waste water tank back into its channel and push until the click-in mechanism locks in place.
+DESCALING
+When the steam generator operates, there is a gradual accumulation and deposit of limestone scale inside 
+the boiler because of calcium contents in the water. This can have a negative effect on the performance of 
+the boiler, as well as the food quality. Using distilled water slows down this process, but it will still happen. To 
+prevent scale build up, you will need to periodically descale the oven. You can purchase descaling liquid on 
+the Anova website or use any generic descaling liquid of your choice.
+The Oven will prompt you to descale the oven after 30 hours of steam usage. You can also run the descale 
+process at any time from the settings. The user interface will guide you through the procedure. The duration 
+of the complete procedure is about 40 minutes.
+
+ENGLISH
+20
+FCC/IC COMPLIANCE
+This device complies with Part 15 of the FCC Rules / Innovation, Science and Economic Development 
+Canada’s licence-exempt RSS(s). Operation is subject to the following two conditions: (1) this device may not 
+cause harmful interference. (2) this device must accept any interference received, including interference that 
+may cause undesired operation.
+L’émetteur/récepteur exempt de licence contenu dans le présent appareil est conforme aux CNR d’Innovation, 
+Sciences et Développement économique Canada applicables aux appareils radio exempts de licence. 
+L’exploitation est autorisée aux deux conditions suivantes : (1) L’appareil ne doit pas produire de brouillage; (2) 
+L’appareil doit accepter tout brouillage radioélectrique subi, même si le brouillage est susceptible d’en 
+compromettre le fonctionnement.
+Changes or modifications not expressly approved by the party responsible for compliance could void the 
+user’s authority to operate the equipment.
+This equipment has been tested and found to comply with the limits for a Class B digital device, pursuant to 
+part 15 of the FCC Rules. These limits are designed to provide reasonable protection against harmful 
+interference in a residential installation. This equipment generates uses and can radiate radio frequency 
+energy and, if not installed and used in accordance with the instructions, may cause harmful interference to 
+radio communications. However, there is no guarantee that interference will not occur in a particular 
+installation. If this equipment does cause harmful interference to radio or television reception, which can be 
+determined by turning the equipment off and on, the user is ncouraged to try to correct the interference by 
+one or more of the following measures:
+• Reorient or relocate the receiving antenna.
+• Increase the separation between the equipment and receiver.
+• Connect the equipment into an outlet on a circuit different from that to which the receiver is connected.
+• Consult the dealer or an experienced radio/TV technician for help.
+MPE REMINDER
+To satisfy FCC / IC RF exposure requirements, a separation distance of 20 cm or more should be maintained 
+between the antenna of this device and persons during device operation. To ensure compliance, operations 
+at closer than this distance is not recommended.
+La FCC des états-unis stipule que cet appareil doit être en tout temps éloigné d’aumoins 20 cm des 
+personnes pendant son functionnement. Installer l’antenne de facon à ce que le personnel ne puisse 
+approcher à 20 cm ou moins de la position centrale de l’ antenne. 
+
+21
+WARRANTY
+21
+Limited warranty. Full details at anovaculinary.com/warranty
+Anova®, Precision®, Precision® Cooker, and HemiFlow™ are trademarks or registered trademarks of Anova 
+Applied Electronics, Inc.  ©2024 Anova Applied Electronics, Inc. San Francisco, CA, US | Stockholm, SE.  All 
+Rights Reserved. 
+Apple, the Apple logo and iPhone are trademarks of Apple Inc., registered in the U.S. and other countries. 
+App Store is a service mark of Apple Inc. Android, Google Play, and the Google Play logo are trademarks of 
+Google Inc. All other trademarks and trade names are properties of their respective owners.
+
+22
+FRANÇAIS
+22
+CONTENU
+BIENVENUE AU FOUR DE PRÉCISION™ ANOVA 2.0!  ............................................................................   23
+AVERTISSEMENTS ET INFORMATIONS DE SÉCURITÉ..........................................................................   24
+CARACTÉRISTIQUES .....................................................................................................................................   26
+ACCESSOIRES .................................................................................................................................................   29
+COMMENCER ..................................................................................................................................................   30
+SE CONNECTER ..............................................................................................................................................   31
+MODES DE CUISSON ....................................................................................................................................   32
+CARACTÉRISTIQUES .....................................................................................................................................   34
+UTILISATION DU THERMOMÈTRE À SONDE ALIMENTAIRE ................................................................   35
+CONVERSION DE RECETTES EN MODE PERSONNALISÉ ....................................................................   36
+ENTRETIEN ET NETTOYAGE ........................................................................................................................   38
+CONFORMITÉ FCC/IC ....................................................................................................................................   40
+GARANTIE ........................................................................................................................................................   41
+
+23
+ 
+BIENVENUE À LA ANOVA PRECISION™ OVEN!
+Cuisiner avec le Anova Precision Oven™ 2.0 est un peu comme un roman d’aventure à choisir. Que vous soyez 
+à la recherche de plats simples à la poêle, de steaks sous vide sans sac, d’une cuisson au pain de niveau 
+professionnel ou de quelque chose entre les deux, ce four est parfait pour vous. Cuisinez rapidement avec les 
+guides d’ingrédients à l’aide de la reconnaissance des aliments par caméra ou parcourez des centaines de 
+recettes uniques dans l’application. 
+Gardez un œil sur l’application car nous publions régulièrement de nouvelles recettes, du contenu éducatif et 
+des mises à jour en direct pour vous garder, vous et votre four à votre meilleur. 
+Nous aimerions voir quelles créations vous proposez, alors restez en contact via l’une des communautés 
+#AnovaFoodNerd sur notre site Web et nos réseaux sociaux. 
+À toute vapeur!
+L’équipe Anova
+MAX
+MIN
+
+24
+FRANÇAIS
+AVERTISSEMENTS ET INFORMATIONS DE SÉCURITÉ
+SÉCURITÉ DES ENFANTS ET DES PERSONNES 
+VULNÉRABLES
+ ⊲Ce four peut être utilisé par les enfants âgés 
+de 8 ans et plus et les personnes à physique 
+réduite, les capacités sensorielles, mentales ou 
+le manque d’expérience et de connaissances 
+s’ils ont reçu une supervision ou des instructions 
+concernant l’utilisation du four de manière sûre et 
+comprennent les dangers impliqués.
+ ⊲Ne laissez pas les enfants jouer avec le four.
+ ⊲Gardez tous les emballages loin des enfants et 
+jetez-les correctement.
+ ⊲Éloignez les enfants et les animaux domestiques 
+du four lorsqu’il fonctionne ou lorsqu’il refroidit. 
+Les pièces accessibles sont chaudes.
+ ⊲Les enfants ne doivent pas effectuer le nettoyage 
+et l’entretien de l’utilisateur du four sans 
+supervision.
+ ⊲Les enfants âgés de 3 ans et moins doivent être 
+tenus à l’écart du four lorsqu’il est en service en 
+tout temps.
+SÉCURITÉ GÉNÉRALE AVERTISSEMENTS
+ ⊲Le four et ses parties accessibles deviennent 
+chauds pendant l’utilisation. Il faut éviter de 
+toucher les éléments chauffants. Gardez les 
+enfants de moins de 8 ans à l’écart du four, à 
+moins d’être surveillés en permanence.
+ ⊲Utilisez toujours des gants de four pour retirer ou 
+mettre dans les accessoires ou la vaisselle.
+ ⊲Débranchez toujours le four avant l’entretien pour 
+éviter tout risque de décharge électrique.
+ ⊲N’utilisez pas de nettoyeur vapeur pour nettoyer le 
+four.
+ ⊲N’utilisez pas de nettoyants abrasifs agressifs ou 
+de grattoirs métalliques tranchants pour nettoyer 
+la porte en verre, car ils peuvent rayer la surface, 
+ce qui peut entraîner l’éclatement du verre.
+ ⊲N’essayez pas de brancher le câble d’alimentation 
+principale s’il est endommagé. Contactez le 
+département de soutien immédiatement.
+ ⊲Utilisez uniquement la sonde alimentaire fournie 
+avec ce four.
+INSTALLATION
+ ⊲Retirez tous les emballages et étiquettes.
+ ⊲Ne pas installer ou utiliser un four endommagé.
+ ⊲Soyez toujours prudent lorsque vous déplacez 
+le four, car il est lourd. Portez toujours des 
+chaussures fermées.
+ ⊲Ne pas tirer ou soulever le four par la poignée de 
+porte.
+ ⊲Gardez une distance minimale de 10,2 cm (4 po) 
+ces des autres fours et unités, murs ou armoires.
+CONNEXION ÉLECTRIQUE
+ ⊲Le four doit être branché à une prise mise à la terre.
+ ⊲Brancher directement dans une prise murale.
+ ⊲Ne pas utiliser d’adaptateurs à plusieurs cosses ou 
+de câbles d’extension.
+ ⊲Le four ne doit pas partager un circuit avec 
+d’autres appareils importants, tels qu’un 
+réfrigérateur ou un four grille-pain, qui pourraient 
+fonctionner en même temps que le four.
+UTILISATION
+ ⊲Ceci est un appareil de cuisson. Les pièces et 
+accessoires seront chauds lors de leur utilisation. 
+Utilisez des gants et des dessous de four pour 
+protéger les mains et les surfaces des brûlures. 
+Manipuler les articles chauds avec précaution.
+ ⊲Le four est à usage domestique seulement.
+ ⊲Ne modifiez pas les spécifications du four.
+ ⊲Ne laissez pas les enfants seuls ou sans surveillance 
+dans la zone pendant que le four est utilisé.
+ ⊲Assurez-vous que les ouvertures de ventilation 
+ne sont pas bloquées. La zone autour des évents 
+sera chaude pendant et après utilisation.
+ ⊲Tenez-vous sur le côté et soyez prudent lorsque 
+vous ouvrez la porte pendant que le four 
+Lisez attentivement les instructions fournies avant l’installation et l’utilisation du four. Le fabricant n’est pas 
+responsable des blessures ou des dommages résultant d’une installation ou d’une utilisation incorrecte. Gardez 
+toujours les instructions dans un endroit sûr et accessible pour référence future.
+
+25
+ 
+25
+AVERTISSEMENTS ET INFORMATIONS DE SÉCURITÉ 
+fonctionne. L’air chaud et la vapeur peuvent être 
+libérés. Si vous utilisez des ingrédients contenant 
+de l’alcool, soyez particulièrement prudent car les 
+vapeurs sont inflammables.
+ ⊲Ne pas appliquer de pression ou de repos sur la 
+porte ouverte.
+ ⊲Ne pas utiliser le four comme surface de travail ou 
+de stockage.
+ ⊲Ne mettez pas de produits inflammables ou 
+d’articles qui sont mouillés avec des produits 
+inflammables dans, près ou sur le four.
+ ⊲Pour éviter d’endommager ou de décolorer l’acier :
+ ⊲ Ne placez pas de vaisselle ou d’autres objets 
+directement au fond du four.
+ ⊲Ne pas mettre de papier d’aluminium 
+directement au fond du four.
+ ⊲Ne gardez pas les plats et les aliments 
+humides dans le four après la cuisson.
+ ⊲Soyez prudent lorsque vous retirez ou installez 
+les accessoires.
+ ⊲La décoloration de l’acier n’a aucun effet sur les 
+performances du four.
+ ⊲Utilisez une casserole profonde pour les gâteaux 
+humides pour éviter le débordement. Les jus 
+de fruits causent des taches qui peuvent être 
+permanentes.
+ ⊲Le four est à des fins de cuisson seulement. Il ne 
+doit pas être utilisé à d’autres fins telles que le 
+chauffage des locaux.
+ ⊲Toujours cuire avec la porte du four fermée.
+ ⊲Ne placez pas le four derrière un panneau 
+de meubles (p. ex., une porte), car la chaleur 
+et l’humidité peuvent s’accumuler pendant le 
+fonctionnement et endommager le four, l’unité de 
+logement ou le plancher.
+CUISSON À LA VAPEUR
+ ⊲Même lors de la cuisson sans vapeur, la vapeur 
+peut émerger de la sortie d’échappement entre 
+les réservoirs et la porte.
+ ⊲La vapeur libérée peut causer des brûlures. Tenez-
+vous sur le côté et soyez prudent lorsque vous 
+ouvrez la porte lorsque la fonction vapeur est 
+activée ou après la cuisson à la vapeur. Gardez les 
+mains et le visage à l’écart.
+ ⊲Ne pas utiliser le four à proximité des armoires. 
+Une vapeur excessive peut endommager les 
+meubles et les armoires.
+MAINTENANCE
+ ⊲Avant la maintenance, débrancher le four et 
+débrancher la fiche de la prise de courant.
+ ⊲Assurez-vous que le four est froid. Les panneaux 
+de verre risquent de se briser s’ils sont nettoyés à 
+chaud.
+ ⊲Si les panneaux de verre de la porte 
+sont endommagés ou cassés, contactez 
+immédiatement le support.
+ ⊲Nettoyer régulièrement le four pour éviter la 
+détérioration du matériau de surface.
+ ⊲Ne pas nettoyer avec des produits ou des 
+agents de nettoyage abrasifs ou avec des objets 
+métalliques.
+ ⊲Suivez les instructions de sécurité sur l’emballage 
+si vous utilisez un vaporisateur pour four.
+MAINTENANCE
+Contactez le service à la clientèle Anova :
+ ⊲support@anovaculinary.com
+ ⊲https://support.anovaculinary.com
+
+26
+FRANÇAIS
+26
+CARACTÉRISTIQUES
+MAX
+MIN
+12
+3
+4
+5
+1. Panneau de commande
+2. Poignée
+3. Réservoir d’eau
+4. Réservoir d’eaux usées
+5. Gouttière
+
+27
+ 
+27
+CARACTÉRISTIQUES 
+1
+2
+3
+4
+5
+6
+10
+11
+11
+9
+8
+7
+1413
+15
+16
+12
+17
+6. Élément chauffant supérieur
+7.   Élément chauffant inférieur/évaporateur
+8. Élément chauffant arrière/ventilateur à convection
+9. Entrée de vapeur
+10. Capteur de température à ampoule humide
+11. Capteurs de température du thermomètre sec
+12. Entrée d’air sec
+13. Port de sonde alimentaire
+14. Caméra
+15. Lumière de cavité
+16. Feux de cuisson
+17. Positions des plateaux (5)
+
+CARACTÉRISTIQUES SUITE
+28
+FRANÇAIS
+28
+DIMENSIONS EXTÉRIEURES
+22,9 po x 14,1 po x 20,0 po
+582 mm x 358 mm x 508 mm
+POIDS
+51,8 lb 
+23,5 kg
+DIMENSIONS INTÉRIEURES
+16,4 po x 10,0 po x 12,4 po
+417 mm x 254  mm x 320 mm
+VOLUME INTÉRIEUR
+1,34 pi cu
+38 L
+VOLUME DU RÉSERVOIR 
+D’EAU
+10 tasses
+2,4 L
+VOLUME DU RÉSERVOIR DE 
+DÉCHETS
+2 tasses
+0,5 L
+CAPTEURS
+2x capteurs à ampoule sèche (ambiante)
+1x capteur à bulbe humide
+1x sonde alimentaire
+1x capteur de chaudière à vapeur
+Caméra : 1080 x 1920
+PLAGE DE TEMPÉRATURE
+77 – 482 °F
+25 – 250 °C
+STEAM CONTROL
+0 – 100 %
+AFFICHAGE
+Panneau IPS de 12,7 cm (5 po)
+16,7M couleurs
+720 x 1280
+CONNECTIVITÉ
+WiFi 2.4 & 5 GHz
+POUVOIR
+120 V/60 Hz/1800 W
+TAILLES DE CASSEROLE
+Jusqu’à 11.8 po x 15 po
+300 mm x 380 mm
+
+ACCESSOIRES
+29
+29
+GRILLE MÉTALLIQUE (2)
+CASSEROLE PLEINE
+SONDE ALIMENTAIRE
+Arrière
+Avant
+
+30
+FRANÇAIS
+30
+COMMENCER
+Le four est un appareil de comptoir. Lorsque vous trouvez un 
+endroit pour votre four, assurez-vous qu’il a au moins 2 pouces 
+(5 cm) d’espace sur tous les côtés et 4 pouces (10 cm) 
+d’espace au-dessus du four et qu’il y a une sortie à proximité.
+Vous serez invité à terminer la préparation de l’élément chauffant lors de la configuration initiale. Assurez-vous 
+que le four est bien ventilé. Certaines vapeurs et odeurs sont normales pendant le premier cycle.
+Nettoyer le four et les accessoires avant la première utilisation.
+Il est recommandé d’utiliser de l’eau distillée pour minimiser l’accumulation de tartre 
+et maintenir le bon fonctionnement.
+MAX
+MIN
+Retirez tout le ruban adhésif et l’emballage de votre four avant 
+la première utilisation. Fixez le plateau d’égouttement avec 
+le côté du bol vers le haut sous la porte. Il devrait cliquer en 
+place.
+Il y a deux réservoirs d’eau. Le réservoir d’eau douce 
+(supérieur) et le réservoir d’eaux usées (inférieur). Les deux 
+réservoirs d’eau peuvent être retirés en poussant le réservoir 
+vers l’arrière du four jusqu’à ce que vous déclenchiez le 
+mécanisme d’insersion ou de retrait. Les réservoirs sortiront du 
+boîtier du four et peuvent glisser librement
+Nettoyez le réservoir supérieur avant la première utilisation. 
+Ne pas remplir au-delà de la ligne d’eau MAX. Remettre le 
+réservoir d’eau dans le four et le mettre en place.
+Le réservoir inférieur attrapera toute humidité excédentaire 
+qui n’est pas épuisée. Il est également utilisé pendant le 
+processus de détartrage.
+
+3131
+SE CONNECTER
+Le Anova Precision™ Oven 2.0 nécessite une connexion WiFi pour recevoir les mises à jour logicielles. Un 
+abonnement actif est requis pour accéder aux derniers guides, modes de cuisson, fonctionnalités de l’appareil 
+photo et recettes et pour suivre votre historique de cuisson sur votre four. 
+Suivez les instructions à l’écran et dans l’application pour configurer votre four. 
+Pour télécharger l’application Anova Oven et vous abonner, veuillez scanner le code QR.
+REMARQUE⊲: La connexion Wi-Fi, l’application et l’abonnement ne sont pas nécessaires pour utiliser le four. 
+Cependant, certaines fonctions peuvent ne pas être disponibles avec une utilisation manuelle. 
+
+32
+FRANÇAIS
+32
+MODES DE CUISSON
+MODETEMPÉRATUREVAPEURDESCRIPTION
+Sous Vide
+75 – 208 °F
+(25 à 98 °C)
+100 %
+Le Sous Vide assure la perfection d’un bord à l’autre de la 
+cuisson des protéines et plus encore, sans sac ni bain-marie. 
+Il utilise le capteur de température à ampoule humide pour 
+mesurer la température de surface de vos aliments; Lorsque 
+vous réglez la température de votre four, elle sera la même que 
+celle de vos aliments, tout comme dans un bain d’eau sous vide. 
+Pour une cuisson plus rapide, régler la température du four 5 à 
+20 °F (3 à 11 °C) plus élevée que la sonde.
+Dry Sous Vide
+75 – 197 °F
+(25 à 92 °C)
+Off
+Le Dry Sous Vide assure la perfection d’un bord à l’autre de 
+la cuisson des protéines sur la peau, sans sac ni bain-marie. 
+La cuisson sous vide à la vapeur garde la peau des protéines 
+comme le poulet ou le poisson sèche et prête à brunir. Pour une 
+cuisson plus rapide, régler la température du four 5 à 20 °F (3 à 
+11 °C) plus élevée que la sonde. Ce réglage ne doit être utilisé 
+que pour les cuiseurs d’environ 4 heures ou moins. Ne pas 
+utiliser avec des aliments en sac.
+Cuisson à 
+convection
+213 – 482 °F
+(101 à 250 °C)
+Off
+La fonction de cuisson par convection (Convection Bake) utilise 
+la chaleur arrière et un ventilateur à convection élevée pour une 
+circulation efficace de la chaleur. Ce réglage est très polyvalent 
+et peut être utilisé pour tout, des produits de boulangerie aux 
+protéines. La cuisson par convection est parfaite lorsque vous 
+voulez cuire rapidement des aliments, comme le poulet, avec un 
+extérieur croustillant et un intérieur juteux.
+Cuisson à la 
+vapeur
+213 – 482 °F
+(101 à 250 °C)
+10 – 100 %
+La fonction de cuisson à la vapeur (Steam Bake) ajoute de la 
+vapeur aux réglages de cuisson par convection. L’ajout de 
+vapeur à un four chaud augmente encore l’efficacité du four et 
+aide à favoriser la rétention d’humidité. La quantité modérée de 
+vapeur ajoutée dans ce mode de cuisson permet toujours de 
+dorer sur des aliments comme le brocoli tout en conservant un 
+intérieur tendre.
+Frire à l’air 
+(Air Fry)
+213 – 482 °F
+(101 à 250 °C)
+Off
+La fonction de friture à l’air (Air Frying) combine la chaleur 
+supérieure et arrière et le ventilateur à convection pour dorer 
+rapidement les aliments croustillants. Elle fonctionne très bien pour 
+les plats à frire normalement, en plus des préparations comme le 
+chou-fleur rôti, qui bénéficient d’une chaleur élevée et sèche pour 
+éviter que le légume ne devienne détrempé
+Chaque mode de cuisson a été développé pour fournir des options simples et claires pour cuisiner 
+rapidement. Vous trouverez ci-dessous une liste détaillée de chaque mode, de ses options et des conseils sur 
+quand ou comment l’utiliser.
+
+33
+ 
+33
+MODES DE CUISSON 
+MODETEMPÉRATUREVAPEURDESCRIPTION
+Rôtissage à la 
+vapeur
+212–482°F
+(100–250°C)
+0–100%
+La cuisson à la vapeur utilise la puissance de l’air chaud et humide, 
+combinée au ventilateur de convection et à la chaleur supérieure 
+et arrière, pour transférer rapidement et efficacement la chaleur et 
+favoriser le brunissement. Pour les protéines comme le poulet à 
+viande brune, cela peut même aider à obtenir un intérieur tendre et 
+qui se défait, avec une peau croustillante et dorée.
+Griller
+400 –482 °F
+(204 à 250 °C)
+Off
+Le gril utilise l’élément chauffant supérieur et une chaleur élevée 
+pour dorer rapidement les aliments sans utiliser de vapeur. Vous 
+pouvez choisir d’utiliser le ventilateur à convection dans ce mode 
+pour une circulation de chaleur encore plus efficace, ou l’éteindre 
+pour un résultat similaire à un poulet à griller traditionnel.
+Vapeur
+200 à 220 °F
+(93 à 104 °C)
+100 %
+La cuisson à la vapeur utilise 100 % de vapeur et une température 
+du four proche du point d’ébullition de l’eau pour reproduire le 
+processus de cuisson à la vapeur sur la cuisinière pour les légumes, 
+les boulettes et le riz. Réglez la température du four vers le haut ou 
+vers le bas en fonction de la douceur avec laquelle vous souhaitez 
+que les aliments soient cuits.
+Apprêt
+75–100 °F
+(de 25 à 38 °C)
+0–100%
+Transformez votre four en une boîte de fermentation efficace en 
+utilisant la basse température et, si désiré, la vapeur. Augmentez 
+la température jusqu’à 90 °F (32 °C) pour les pâtes sucrées ou 
+pour accélérer le temps de fermentation si vous êtes pressé. 
+REMARQUE : La température et l’humidité ne peuvent pas être 
+maintenues inférieures aux conditions ambiantes dans la pièce.
+Déshydrater
+75 – 165 °F
+(25 à 74 °C)
+Off
+La combinaison d’une température de cuisson relativement basse 
+avec l’élément chauffant inférieur et le ventilateur vous permet 
+d’utiliser le four comme déshydrateur pour les fruits séchés, séchés 
+et plus encore.
+Coutume
+75 – 482 °F
+(de 25 à 250 °C)
+0–100%
+Si vous voulez un contrôle ultime sur les paramètres, 
+Personnalisable (Custom) est la réponse. Vous pouvez définir les 
+éléments chauffants, la vitesse du ventilateur, le mode sous vide, 
+etc. Certaines combinaisons peuvent ne pas être possibles, comme 
+la chaleur arrière avec le ventilateur éteint.
+
+34
+CARACTÉRISTIQUES
+CUISINE GUIDÉE
+HISTOIRE CULINAIRE
+EXPÉRIENCE PERSONNALISÉE
+CAMÉRA ET RECONNAISSANCE ALIMENTAIRE
+La section des guides est un endroit idéal pour commencer et en apprendre davantage sur les méthodes 
+idéales pour cuisiner vos ingrédients préférés. Avec une liste croissante d’options, vous serez entre autres en 
+mesure d’explorer tout, de la façon de cuisiner un poulet rôti parfait à cuire à la vapeur des légumes croquants-
+tendres, faire du pain grillé brun doré.
+Vous avez accès à votre historique de cuisson complet directement sur le four. Vous pouvez vous rappeler des 
+recettes, des guides et des cuisiniers manuels préparés précédemment chaque fois que vous en avez besoin.
+Vous pouvez modifier l’ordre de l’écran d’accueil pour qu’il corresponde à vos préférences et aux modes de 
+cuisson les plus utilisés. Faites simplement défiler l’écran et appuyez sur le bouton « Modifier l’ordre ». Réglez le 
+volume, la luminosité, l’unité de température (Fahrenheit ou Celsius) et la fonctionnalité d’éclairage du four dans 
+les paramètres.
+La caméra haute définition du four a de multiples fonctions, y compris la reconnaissance des aliments, pour offrir 
+la meilleure expérience de cuisson possible. Vous pourrez cuisiner immédiatement avec une liste croissante 
+d’éléments que le four peut identifier. 
+ ⊲Il suffit d’insérer vos aliments préparés et assaisonnés dans le four pour utiliser l’appareil photo pour la 
+cuisson. La caméra reconnaîtra les aliments et suggérera les meilleures façons de les cuire en utilisant les 
+réglages optimaux du four. Sélectionnez la cuisson désirée (le cas échéant) et appuyez sur Démarrer. Pas 
+besoin de préalablement chauffer le four.
+FONCTIONS SUPPLÉMENTAIRES DE LA CAMÉRA
+ ⊲Un accéléré de votre cuisson est automatiquement généré une fois la cuisson terminée. Conservez-le dans 
+votre propre recette ou partagez-le avec vos amis et votre famille.
+ ⊲Gardez votre four à jour pour accéder aux dernières fonctionnalités.
+REMARQUE : Pour de meilleurs résultats, essuyez le boîtier de la caméra après chaque utilisation.
+FRANÇAIS
+
+35
+ 
+UTILISATION DU THERMOMÈTRE À SONDE ALIMENTAIRE
+La sonde alimentaire donne une lecture en direct de la température centrale de l’aliment, et afin de donner 
+le résultat le plus précis, il est important de l’insérer correctement. Le capteur de température est situé à 
+l’extrémité de la sonde alimentaire, de sorte que cette section de la sonde doit être insérée au centre de la 
+nourriture. La sonde alimentaire mesure la température à cœur jusqu’à 212 °F (100 °C).
+Pour les rôtis désossés et les petits articles comme 
+le steak, la poitrine de poulet et le poisson, posez la 
+sonde sur la nourriture pour trouver la profondeur à 
+laquelle vous devez l’insérer afin d’atteindre le centre 
+de la zone la plus épaisse. Une fois que vous avez 
+cela, utilisez vos doigts pour marquer l’emplacement 
+sur la sonde et l’insérer dans la nourriture par le côté, à 
+travers et dans la section la plus épaisse. Pour les rôtis 
+avec os, utilisez la même technique d’insertion, mais 
+évitez de toucher l’os avec la sonde.
+Pour les volailles entières comme le poulet, la dinde et 
+le canard, insérez la sonde alimentaire dans la partie 
+la plus épaisse des poitrines en utilisant la même 
+technique décrite ci-dessus.
+
+36
+FRANÇAIS
+36
+CONVERSION DE RECETTES EN MODE PERSONNALISÉ
+Le mode personnalisé du four de précision Anova offre la possibilité de contrôler chaque réglage. Cela peut 
+être utile si vous convertissez vos recettes préférées au four de précision, mais il y a beaucoup de composants 
+à considérer. Peu importe les paramètres, vous devrez surveiller vos aliments de près la première fois que vous 
+adapterez une recette afin de ne pas trop les cuire.
+Voici quelques bons points de départ.
+SOUS VIDE
+Si vous adaptez une recette de four traditionnel au four de précision, ne vous inquiétez pas du mode sous vide. 
+Appuyez simplement sur l’icône Sous Vide pour l’éteindre. Si vous convertissez une recette sous vide, nous 
+vous recommandons d’utiliser les modes de cuisson sous vide ou sous vide sec.
+ÉLÉMENTS CHAUFFANTS ET EMPLACEMENTS DES GRILLES
+Le four de précision utilise par défaut l’élément chauffant arrière pour tous les cuisiniers manuels. C’est un bon 
+élément chauffant pour commencer lorsque vous convertissez des recettes. Si vous trouvez que vous souhaitez 
+plus de brunissement sur le dessus de vos aliments, ajoutez l’élément chauffant supérieur la prochaine fois que 
+vous cuisinez. Et si vous remarquez que votre nourriture n’est pas assez brune au fond, passez à des éléments 
+chauffants haut + bas ou arrière + bas. Nous recommandons d’utiliser le 3
+e
+ emplacement de grille de four pour 
+la plupart des aliments. Déplacez vos aliments plus près ou plus loin des éléments chauffants au besoin pour 
+augmenter ou diminuer le brunissement.
+TEMPÉRATURE, CONVECTION ET VAPEUR DU FOUR
+Le four de précision vous permet d’ajouter de la vapeur ou le ventilateur de convection à vos cuisiniers, et ces deux 
+éléments augmentent l’efficacité du processus de cuisson. Si vous ajoutez le ventilateur à convection, essayez d’abord 
+de diminuer la température du four de 25 °F (14 °C), puis commencez à vérifier la cuisson 5 à 10 minutes plus tôt que 
+d’habitude. Le ventilateur à convection sera par défaut élevé; Nous vous recommandons de le laisser à ce réglage, sauf 
+si vous remarquez que le ventilateur dessèche les aliments ou fait dégonfler un aliment délicat, tel qu’un soufflé.
+Vous pouvez encore augmenter l’efficacité en cuisinant à la vapeur. Comme la chaleur par convection, la vapeur 
+accélère le transfert de chaleur et peut également réduire le temps de cuisson. Nous recommandons de commencer 
+avec une quantité relativement faible de vapeur (10 à 50 %). Lorsque vous ajoutez de la vapeur à un cuiseur vide 
+sans vapeur, vous pouvez considérer le pourcentage comme la sortie de vapeur continue; 100 % de vapeur sera la 
+sortie maximale de vapeur possible pour l’ensemble du cuisinier, tandis que les pourcentages inférieurs seront des 
+fractions de cette sortie. (Pour plus de détails sur l’utilisation de la vapeur, visitez https://anovaculinary.com).
+Vous pouvez également utiliser le four pour préparer des aliments qui sont traditionnellement cuits à la vapeur, 
+tels que les artichauts, le bao ou le riz. Nous vous recommandons d’utiliser le mode de cuisson à la vapeur pour 
+ces plats. Les aliments cuits à la vapeur fonctionnent mieux lorsque l’air et la vapeur circulent de tous les côtés. 
+Si vous avez une casserole perforée, utilisez-la. Pour les articles plus volumineux, comme les artichauts, vous 
+pouvez cuire à la vapeur directement sur une grille. Si vous n’avez pas de poêle perforée et que vous faites 
+cuire à la vapeur des articles plus petits ou plus fragiles, vous pouvez plutôt placer les aliments sur une grille et 
+les placer directement sur la grille du four. Placer une plaque de cuisson sur la grille la plus basse peut aider à 
+attraper les gouttes et rendre le four plus facile à nettoyer, mais ce n’est pas nécessaire. Le riz fonctionne mieux 
+s’il est cuit à la vapeur en une fine couche. Utilisez une plaque ou un grand plat de cuisson.
+
+37
+ 
+37
+CONVERSION DE RECETTES EN MODE PERSONNALISÉ 
+Pour les recettes de pain, un cuisinier en plusieurs étapes peut reproduire un four professionnel en utilisant 
+le mode de cuisson à la vapeur pour démarrer le processus de cuisson et améliorer le printemps du four. 
+Ensuite, utilisez le mode de cuisson par convection pour dorer et terminer la cuisson du pain. La fonction 
+de fermentation (Proofing) peut être intégré dans un programme de recettes dans l’application en créant un 
+cuisinier en trois étapes, en commençant par le mode de cuisson de fermentation (Proof).
+Si vous n’ajoutez pas de convection ou de vapeur, vous pouvez conserver les mêmes heures et les mêmes 
+températures que votre recette traditionnelle; Cependant, en raison du niveau plus élevé de contrôle de précision et 
+de la taille plus petite de la cavité, nous recommandons de vérifier 5 à 10 minutes plus tôt que la recette ne le suggère. 
+SONDE ALIMENTAIRE
+Si vous cuisinez des protéines, vous pouvez utiliser la sonde alimentaire pour assurer la précision. Si vous 
+utilisez une température de four relativement élevée, vous n’obtiendrez pas la même cuisson bord à bord 
+qu’avec le mode Sous Vide, mais vous saurez exactement quand la protéine a atteint sa cuisson parfaite. Vous 
+pouvez même utiliser la sonde pour surveiller la cuisson avec certains produits de boulangerie, bien qu’il sera 
+difficile d’insérer solidement dans les recettes à base de pâte.
+TYPE
+AJUSTEMENT 
+TEMPORAIRE
+RÉGLAGE 
+DU TEMPS
+VAPEUR
+ÉLÉMENTS 
+CHAUFFANTS
+GRILLEPROBEVENTILATEURMODE SV
+Torréfaction-25 °F (-14 °C)-5 à 
+10 minutes
+10 – 50 %Arrière 
+Ou
+Haut + arrière
+3Oui ou 
+Non
+OuiNon
+Cuisson-25 °F (-14 °C)-5 à 
+10 minutes
+10 – 50 %Arrière 
+Ou 
+Haut + Bas
+3NonOui ou NonNon
+Fumantpoint 
+d’ébullition 
+de l’eau
+Aucun100 %ArrièreTouteOui ou 
+Non
+OuiOui ou Non
+Pain-25 °F (-14 °C)-5 à 
+10 minutes
+100 % 
+première 
+étape, 0 % 
+deuxième 
+étape
+Arrière 
+Ou 
+Haut + Bas
+1, 2 ou 
+3
+NonOuiNon
+GUIDE RAPIDE DES CONVERSIONS DE FOUR TRADITIONNEL
+
+38
+FRANÇAIS
+38
+ENTRETIEN ET NETTOYAGE
+NOTES SUR LE NETTOYAGE
+ ⊲Assurez-vous que le four est complètement froid avant de le nettoyer.
+ ⊲Nettoyez l’avant du four à l’aide d’un chiffon doux avec de l’eau tiède et un agent nettoyant doux.
+ ⊲Pour nettoyer les surfaces métalliques, utilisez un nettoyant pour acier inoxydable.
+ ⊲En cas d’accumulation de tartre au fond du four, utilisez quelques gouttes de vinaigre distillé mélangé avec 
+de l’eau tiède et une éponge douce pour nettoyer.
+ ⊲Nettoyez l’intérieur du four après chaque utilisation. L’accumulation de graisse ou d’autres restes 
+alimentaires peut provoquer un incendie. 
+ ⊲Nettoyez les taches tenaces avec un nettoyant pour four.
+ ⊲N’utilisez pas d’éponges abrasives ou de détergents agressifs. Ils peuvent endommager les pièces en acier 
+inoxydable.
+ ⊲L’élément chauffant supérieur peut être tourné vers le bas pour un 
+nettoyage plus facile. Placez le clip au centre de l’élément chauffant et 
+tirez-le doucement vers l’avant pour le décrocher. Faites pivoter l’élément 
+vers le bas. Une fois nettoyé, faites pivoter l’élément vers le haut et 
+appuyez-le en place jusqu’à ce que vous entendiez un « claquement ».
+ ⊲L’élément chauffant inférieur peut également être tourné vers le haut pour 
+un nettoyage facile. Une fois nettoyé, faites pivoter l’élément vers le bas 
+jusqu’à ce qu’il soit en contact avec le fond du four.
+ACCESSOIRES
+ ⊲Nettoyez la sonde alimentaire avec une éponge, de l’eau tiède et du savon à vaisselle. Ne pas immerger la 
+sonde dans l’eau ni la mettre au lave-vaisselle.
+ ⊲Nettoyez la casserole et les grilles dans le lave-vaisselle ou à la main. N’utilisez pas de produits de nettoyage 
+abrasifs, d’épurateurs ou d’objets à bords tranchants. Ceux-ci peuvent endommager l’acier inoxydable.
+ ⊲Nettoyez tous les accessoires après chaque utilisation et laissez-les sécher.
+ ⊲Vérifiez et videz le réservoir d’eaux usées et le bac d’égouttement avant et après chaque cuisson pour vous 
+assurer qu’il ne déborde pas.
+
+39
+ 
+RÉSERVOIRS D’EAU 
+ ⊲Les deux réservoirs d’eau peuvent être retirés en poussant le réservoir vers l’arrière du four jusqu’à ce 
+que vous déclenchiez le mécanisme d’insersion ou de retrait. Les réservoirs sortiront du boîtier du four et 
+glisseront librement pour le nettoyage et le remplissage.
+ ⊲Retirez le couvercle des réservoirs d’eau en les soulevant directement. NE PAS soulever d’un côté ou de 
+l’autre.
+ ⊲Lavez doucement les réservoirs d’eau et les couvercles avec un chiffon doux ou une éponge non abrasive, 
+de l’eau chaude et du savon à vaisselle. Rincer et laisser sécher.
+        N’UTILISEZ PAS D’ÉPONGES ABRASIVES. NE PAS METTRE DE RÉSERVOIRS D’EAU À 
+L’INTÉRIEUR D’UN LAVE-VAISSELLE.
+ ⊲Replacez le couvercle et faites glisser le réservoir dans le canal approprié sur le côté gauche du four. Remplir 
+avec de l’eau distillée à l’aide du trou de remplissage. Poussez jusqu’à ce que le mécanisme de clic le 
+verrouille en place.
+ ⊲Faites glisser le réservoir d’eaux usées dans son canal et poussez jusqu’à ce que le mécanisme 
+d’encliquetage se verrouille en place.
+DÉTARTRAGE
+Lorsque le générateur de vapeur fonctionne, il y a une accumulation progressive et un dépôt de calcaire à 
+l’intérieur de la chaudière en raison de la teneur en calcium dans l’eau. Cela peut avoir un effet négatif sur 
+les performances de la chaudière, ainsi que sur la qualité des aliments. L’utilisation d’eau distillée ralentit 
+ce processus, mais cela se produira toujours. Vous devrez détartrer périodiquement le four pour éviter 
+l’accumulation de tartre. Vous pouvez acheter du liquide de détartrage sur le site Anova ou utiliser n’importe 
+quel liquide de détartrage générique de votre choix.
+Le four vous demandera de détartrer le four après 30 heures d’utilisation de la vapeur. Vous pouvez également 
+exécuter le processus de détartrage à tout moment à partir des paramètres. L’interface utilisateur vous guidera 
+tout au long de la procédure. La procédure complète dure environ 40 minutes. 
+
+40
+FRANÇAIS
+40
+CONFORMITÉ FCC/IC
+Cet appareil est conforme à la partie 15 des CNR exempts de licence de FAC/Innovation, Sciences et 
+Développement économique Canada. L’exploitation est soumise aux deux conditions suivantes : (1) ce dispositif 
+ne doit pas causer d’interférences nuisibles. (2) ce dispositif doit accepter toute interférence reçue, y compris 
+toute interférence susceptible de provoquer un fonctionnement indésirable.
+L’émetteur/récepteur exempt de licence contenu dans le présent appareil est conforme aux CNR d’Innovation, 
+Sciences et Développement économique Canada applicables aux appareils radio exempts de licence. 
+L’exploitation est autorisée aux deux conditions suivantes : (1) L’appareil ne doit pas produire de brouillage; 
+(2) L’appareil doit accepter tout brouillage radioélectrique subi, même si le brouillage est susceptible d’en 
+compromettre le fonctionnement.
+Les changements ou modifications non expressément approuvés par la partie responsable de la conformité 
+pourraient annuler le pouvoir de l’utilisateur d’utiliser l’équipement.
+Cet équipement a été testé et jugé conforme aux limites d’un appareil numérique de classe B, conformément 
+à la partie 15 des règles de la FCC. Ces limites sont conçues pour fournir une protection raisonnable contre les 
+interférences nuisibles dans une installation résidentielle. Cet équipement génère des utilisations et peut 
+émettre de l’énergie de radiofréquence et, s’il n’est pas installé et utilisé conformément aux instructions, peut 
+causer des interférences nuisibles aux communications radio. Cependant, il n’y a aucune garantie que 
+l’interférence ne se produira pas dans une installation particulière. Si cet équipement provoque des 
+interférences nuisibles à la réception de la radio ou de la télévision, qui peuvent être déterminées en éteignant 
+et en allumant l’équipement, l’utilisateur est prié d’essayer de corriger l’interférence par une ou plusieurs des 
+mesures suivantes :
+• Réorienter ou déplacer l’antenne réceptrice.
+• Augmenter la séparation entre l’équipement et le récepteur.
+• Connectez l’équipement à une prise sur un circuit différent de celui auquel le récepteur est connecté.
+• Consultez le concessionnaire ou un technicien radio/TV expérimenté pour obtenir de l’aide.
+RAPPEL MPE
+Pour satisfaire aux exigences d’exposition de RF FCC/ IC, une distance de séparation de 20 cm ou plus doit 
+être maintenue entre l’antenne de cet appareil et les personnes pendant le fonctionnement de l’appareil. 
+Pour assurer la conformité, il n’est pas recommandé d’effectuer des opérations à une distance inférieure 
+à cette distance.
+La FCC des états-unis stipule que cet appareil doit être en tout temps éloigné d’au moins 20 cm des personnes 
+pendant son fonctionnement. Installer l’antenne de façon à ce que le personnel ne puisse approcher à 20 cm ou 
+moins de la position centrale de l’ antenne. 
+
+4141
+GARANTIE
+41
+Garantie limitée. Tous les détails sur anovaculinary.com/warranty
+Anova®, Precision®, Precision® Cooker et HemiFlow™ sont des marques commerciales ou des marques 
+déposées d’Anova Applied Electronics, Inc.  ©2024 Anova Applied Electronics, Inc. San Francisco, CA, US | 
+Stockholm, SE.  Tous droits réservés. 
+Apple, le logo Apple et l’iPhone sont des marques commerciales d’Apple Inc., enregistrées aux États-Unis et 
+dans d’autres pays. App Store est une marque de service d’Apple Inc. Android, Google Play et le logo Google 
+Play sont des marques commerciales de Google Inc. Toutes les autres marques et noms commerciaux sont la 
+propriété de leurs propriétaires respectifs.
+
+
+
+
+
+ANOVACULINARY.COM
+SUPPORT@ANOVACULINARY.COM

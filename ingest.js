@@ -11,7 +11,7 @@ const EMBEDDING_MODEL = 'pinecone-sparse-english-v0'
 const pinecone = new Pinecone({ apiKey: API_KEY })
 const index = pinecone.index(INDEX_NAME, INDEX_HOST).namespace(NAMESPACE);
 
-const pdfPath = process.argv[2] || 'pdf-files/manual.pdf';
+const pdfPath = process.argv[2];
 if (!fs.existsSync(pdfPath)) {
     console.error(`PDF file not found: ${pdfPath}`);
     process.exit(1);
@@ -79,10 +79,19 @@ try {
                 console.warn(`Embedding failed for chunk ${i} (page ${pageNum}). Skipping...`);
                 continue;
             }
+            // Embedding response received
+
             // Pinecone returns the embedding. Extract sparse indices and values.
-            const embedResult = Array.isArray(embedResponse) ? embedResponse[0] : embedResponse;
-            const sparseIndices = embedResult.sparseValues?.indices || embedResult.sparse_indices;
-            const sparseValues = embedResult.sparseValues?.values || embedResult.sparse_values;
+            // Need to extract values from data[0] based on the actual response structure
+            if (!embedResponse.data || !embedResponse.data[0]) {
+                console.warn(`No data field in embedding response for chunk ${i}. Skipping...`);
+                continue;
+            }
+
+            const embedResult = embedResponse.data[0];
+            const sparseIndices = embedResult.sparseIndices;
+            const sparseValues = embedResult.sparseValues;
+
             if (!sparseIndices || !sparseValues) {
                 console.warn(`No sparse vector data for chunk ${i}. Skipping...`);
                 continue;
