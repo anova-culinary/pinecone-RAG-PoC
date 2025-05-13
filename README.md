@@ -1,13 +1,14 @@
 # Pinecone RAG with Claude
 
-A proof-of-concept application that demonstrates Retrieval-Augmented Generation (RAG) using Pinecone vector database and Claude AI.
+A proof-of-concept application that demonstrates Retrieval-Augmented Generation (RAG) using Pinecone vector database and Claude AI. This version includes both a CLI and a web-based interface.
 
 ## Features
 
 - Document ingestion into Pinecone vector database
-- Interactive search interface
+- Interactive search interface (CLI and web)
 - Semantic search using Pinecone sparse vectors
 - Integration with Claude AI for generating answers
+- Web-based UI for easier interaction
 
 ## Setup
 
@@ -47,6 +48,9 @@ PINECONE_EMBEDDING_MODEL=   # The embedding model to use (default: sparse+sparse
 
 # Anthropic API Configuration
 ANTHROPIC_API_KEY=          # Your Anthropic API key for Claude
+
+# Optional: Server Configuration (for web interface)
+PORT=3000                   # Port for the web server (default: 3000)
 ```
 
 #### Getting API Keys
@@ -64,9 +68,9 @@ To ingest PDF documents into the Pinecone vector database:
 node ingest.js /path/to/your/document.pdf
 ```
 
-### Search Documents
+### Search Documents (CLI version)
 
-To search the documents and get answers from Claude:
+To search the documents using the command-line interface:
 
 ```
 node search.js
@@ -78,6 +82,29 @@ This will start an interactive search interface where you can:
 3. Press Enter to generate an answer from Claude
 4. Choose to ask another question or exit
 
+### Web Interface
+
+To use the web-based interface:
+
+```
+npm start
+```
+
+This will start the server and you can access the application at `http://localhost:3000` (or the port you specified in your `.env` file).
+
+With the web interface, you can:
+1. Enter your question in the text area
+2. Click the Search button (or press Enter)
+3. View retrieved context on the left side
+4. See Claude's generated answer on the right side
+5. Ask additional questions as needed
+
+For development with automatic reloading:
+
+```
+npm run dev
+```
+
 ## How It Works
 
 1. **Ingestion (ingest.js)**:
@@ -86,15 +113,23 @@ This will start an interactive search interface where you can:
    - Generates sparse embeddings via Pinecone API
    - Stores embeddings and text in Pinecone
 
-2. **Search (search.js)**:
-   - Takes user queries interactively
-   - Generates sparse embeddings for the query
-   - Retrieves relevant document chunks from Pinecone
-   - Sends context and query to Claude
-   - Displays the AI-generated answer
+2. **Search**:
+   - **CLI (search.js)**:
+     - Takes user queries interactively via command line
+     - Generates sparse embeddings for the query
+     - Retrieves relevant document chunks from Pinecone
+     - Sends context and query to Claude
+     - Displays the AI-generated answer in the terminal
+   
+   - **Web Interface (server.js, app.js)**:
+     - Provides a user-friendly web interface
+     - Handles queries through a REST API
+     - Server-side processing to keep API keys secure
+     - Displays both context and answers in a clean UI
 
 ## Requirements
 
 - Node.js
 - Pinecone account with API access
 - Claude API access (via Anthropic)
+- Modern web browser (for web interface)

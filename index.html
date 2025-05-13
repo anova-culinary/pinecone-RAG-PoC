@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anova Search</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Pinecone RAG PoC</h1>
+        </header>
+        
+        <main>
+            <div class="search-container">
+                <textarea id="question-input" placeholder="Enter your question about Anova products..."></textarea>
+                <button id="search-button">Search</button>
+            </div>
+            
+            <div class="results-container">
+                <div class="context-container">
+                    <h2>Retrieved Context</h2>
+                    <div id="context-results"></div>
+                </div>
+                
+                <div class="answer-container">
+                    <h2>Claude's Answer</h2>
+                    <div id="loading-indicator" class="hidden">Generating answer...</div>
+                    <div id="answer-results"></div>
+                </div>
+            </div>
+        </main>
+    </div>
+    
+    <script src="app.js" type="module"></script>
+</body>
+</html>
