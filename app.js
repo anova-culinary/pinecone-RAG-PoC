@@ -1,6 +1,7 @@
 // DOM elements
 const questionInput = document.getElementById('question-input');
 const searchButton = document.getElementById('search-button');
+const generateAnswerButton = document.getElementById('generate-answer-button');
 const contextResults = document.getElementById('context-results');
 const answerResults = document.getElementById('answer-results');
 const loadingIndicator = document.getElementById('loading-indicator');
@@ -10,6 +11,9 @@ let retrievedContexts = [];
 
 // Add event listener for search button
 searchButton.addEventListener('click', handleSearch);
+
+// Add event listener for generate answer button
+generateAnswerButton.addEventListener('click', handleGenerateAnswer);
 
 // Also trigger search on Enter key in textarea
 questionInput.addEventListener('keydown', (e) => {
@@ -34,16 +38,54 @@ async function handleSearch() {
   answerResults.innerHTML = '';
   retrievedContexts = [];
   
+  // Hide loading indicator
+  loadingIndicator.classList.add('hidden');
+  
+  // Hide generate answer button
+  generateAnswerButton.classList.add('hidden');
+  
   try {
     // Step 1: Search for context
     await searchForContext(query);
     
-    // Step 2: Generate answer with Claude
-    await generateAnswer(query);
+    // Show generate answer button if we have context
+    if (retrievedContexts.length > 0) {
+      answerResults.innerHTML = '<div class="prompt-message">Click "Generate Answer" to get Claude\'s response based on the retrieved context.</div>';
+      generateAnswerButton.classList.remove('hidden');
+    }
     
   } catch (error) {
     console.error('Error during search process:', error);
+    contextResults.innerHTML = `<div class="error">An error occurred: ${error.message}</div>`;
+  }
+}
+
+// Generate answer handler function
+async function handleGenerateAnswer() {
+  const query = questionInput.value.trim();
+  
+  // Validate input
+  if (!query) {
+    alert('Please enter a question');
+    return;
+  }
+  
+  // Clear previous answer and hide button
+  answerResults.innerHTML = '';
+  generateAnswerButton.classList.add('hidden');
+  
+  // Show loading indicator
+  loadingIndicator.classList.remove('hidden');
+  
+  try {
+    // Generate answer with Claude using the retrieved context
+    await generateAnswer(query);
+    
+  } catch (error) {
+    console.error('Error during answer generation:', error);
     answerResults.innerHTML = `<div class="error">An error occurred: ${error.message}</div>`;
+    // Show the button again in case of error
+    generateAnswerButton.classList.remove('hidden');
   }
 }
 
