@@ -4,11 +4,22 @@
     padding: 0;
 }
 
+:root {
+    --bg-color: #121212;
+    --surface-color: #1e1e1e;
+    --primary-color: #6a9bef;
+    --on-surface: #e0e0e0;
+    --on-surface-secondary: #b0b0b0;
+    --border-color: #333;
+    --shadow-color: rgba(0, 0, 0, 0.3);
+    --input-bg: #252525;
+}
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    color: #333;
-    background-color: #f4f4f4;
+    color: var(--on-surface);
+    background-color: var(--bg-color);
 }
 
 .container {
@@ -21,9 +32,10 @@ header {
     text-align: center;
     margin-bottom: 30px;
     padding: 20px;
-    background-color: #fff;
+    background-color: var(--surface-color);
     border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 8px var(--shadow-color);
+    border: 1px solid var(--border-color);
 }
 
 .search-container {
@@ -35,27 +47,30 @@ header {
 #question-input {
     padding: 15px;
     font-size: 16px;
-    border: 1px solid #ddd;
+    border: 1px solid var(--border-color);
     border-radius: 5px;
     margin-bottom: 10px;
     min-height: 100px;
     resize: vertical;
+    background-color: var(--input-bg);
+    color: var(--on-surface);
 }
 
 #search-button {
     padding: 12px;
-    background-color: #4a90e2;
-    color: white;
+    background-color: var(--primary-color);
+    color: #000;
     border: none;
     border-radius: 5px;
     cursor: pointer;
     font-size: 16px;
     font-weight: bold;
-    transition: background-color 0.3s;
+    transition: all 0.3s;
 }
 
 #search-button:hover {
-    background-color: #3a7bc8;
+    background-color: #4a79c9;
+    box-shadow: 0 2px 5px var(--shadow-color);
 }
 
 .results-container {
@@ -71,16 +86,18 @@ header {
 }
 
 .context-container, .answer-container {
-    background-color: white;
+    background-color: var(--surface-color);
     border-radius: 5px;
     padding: 20px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 8px var(--shadow-color);
+    border: 1px solid var(--border-color);
 }
 
 h2 {
     margin-bottom: 15px;
     padding-bottom: 10px;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid var(--border-color);
+    color: var(--primary-color);
 }
 
 #context-results, #answer-results {
@@ -94,18 +111,27 @@ h2 {
 
 #loading-indicator {
     padding: 10px;
-    background-color: #f9f9f9;
+    background-color: var(--input-bg);
     border-radius: 5px;
     text-align: center;
     font-style: italic;
+    color: var(--on-surface-secondary);
 }
 
 .context-item {
     margin-bottom: 15px;
     padding-bottom: 15px;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid var(--border-color);
 }
 
 .context-item:last-child {
     border-bottom: none;
+}
+
+.error {
+    color: #e57373;
+    padding: 10px;
+    background-color: rgba(229, 115, 115, 0.1);
+    border-radius: 4px;
+    margin-top: 10px;
 }
