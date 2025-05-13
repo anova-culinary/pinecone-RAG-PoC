@@ -1,0 +1,9 @@
+# Pinecone Configuration
+PINECONE_API_KEY=your-pinecone-api-key-here
+PINECONE_INDEX_NAME=your-index-name
+PINECONE_INDEX_HOST=https://your-index-host.pinecone.io
+PINECONE_NAMESPACE=your-namespace
+PINECONE_EMBEDDING_MODEL=sparse+sparse:hkunlp/instructor-base:thenlper/gte-small
+
+# Anthropic API Configuration
+ANTHROPIC_API_KEY=your-anthropic-api-key-here

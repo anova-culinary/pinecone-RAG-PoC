@@ -1,3 +1,30 @@
-**/.claude/settings.local.json
-node_modules
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+.pnp/
+.pnp.js
+
+# Environment variables
 .env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Claude-specific
+**/.claude/settings.local.json
+
+# Build/output directories
+dist/
+build/
+out/
+.next/
