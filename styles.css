@@ -56,7 +56,7 @@ header {
     color: var(--on-surface);
 }
 
-#search-button {
+#search-button, #generate-answer-button {
     padding: 12px;
     background-color: var(--primary-color);
     color: #000;
@@ -68,7 +68,7 @@ header {
     transition: all 0.3s;
 }
 
-#search-button:hover {
+#search-button:hover, #generate-answer-button:hover {
     background-color: #4a79c9;
     box-shadow: 0 2px 5px var(--shadow-color);
 }
@@ -134,4 +134,19 @@ h2 {
     background-color: rgba(229, 115, 115, 0.1);
     border-radius: 4px;
     margin-top: 10px;
+}
+
+#generate-answer-button {
+    margin-top: 20px;
+    width: 100%;
+}
+
+.context-message, .prompt-message {
+    margin-top: 15px;
+    padding: 10px;
+    background-color: var(--input-bg);
+    border-radius: 5px;
+    text-align: center;
+    color: var(--on-surface-secondary);
+    font-style: italic;
 }
