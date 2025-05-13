@@ -62,11 +62,19 @@ if (!userPrompt) {
     if (contextSnippets.length > 0) {
       contextSection = "Context:\n" + contextSnippets.join("\n") + "\n\n"
     }
+
+    console.log(contextSection)
+    console.log("↑ Added context pulled from Anova documents ↑\n")
+
+    console.log("User's question:\n", userPrompt, "\n")
+
+    console.log("Generating final answer from Claude AI...")
+
     // Construct the final prompt with context prepended
     const finalPrompt = `${contextSection}Question: ${userPrompt}`
 
     // Output the final prompt (this would be sent to the LLM for answer generation)
-    console.log("Final Prompt for LLM:\n", finalPrompt)
+    // console.log("Final Prompt for LLM:\n", finalPrompt, "\n")
 
     // 5. Send the final prompt to the LLM (Anthropic API)
     const claudeResponse = await axios.post(
@@ -90,9 +98,9 @@ if (!userPrompt) {
       }
     );
 
-    // Extract the assistant's response
+    // Extract the Claude's response
     const finalAnswer = claudeResponse.data.content[0].text;
-    console.log("Final Generated Answer:\n", finalAnswer)
+    console.log("\nFinal Generated Answer:\n", finalAnswer, "\n")
 
   } catch (err) {
     console.error("Error during RAG prompt construction:", err)
