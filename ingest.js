@@ -48,7 +48,7 @@ try {
             // If too long, split into two smaller chunks (at nearest sentence boundary if possible)
             const mid = Math.floor(words.length / 2)
             let splitIndex = mid
-            for (let i = mid i < words.length i++) {
+            for (let i = mid; i < words.length; i++) {
                 if (words[i].endsWith('.') || words[i].endsWith('?') || words[i].endsWith('!')) {
                     splitIndex = i + 1
                     break
@@ -65,7 +65,7 @@ try {
 
     let chunkCount = 0
     const vectors = []
-    for (let i = 0 i < chunks.length i++) {
+    for (let i = 0; i < chunks.length; i++) {
         const textChunk = chunks[i]
         // Determine page number for this chunk (simple heuristic: distribute chunks evenly or track via content)
         // For simplicity, we approximate page number based on chunk index and total pages.
@@ -128,7 +128,7 @@ try {
     if (vectors.length > 0) {
         try {
             await index.upsert(vectors)
-            console.log(`Successfully upserted ${vectors.length} vectors to Pinecone index "anova" (namespace "oven").`)
+            console.log(`Successfully upserted ${vectors.length} vectors to Pinecone index (namespace "oven").`)
         } catch (upsertErr) {
             console.error("Failed to upsert vectors to Pinecone:", upsertErr)
         }
