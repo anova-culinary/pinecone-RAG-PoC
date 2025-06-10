@@ -28,3 +28,5 @@ dist/
 build/
 out/
 .next/
+# Claude AI assistant config
+CLAUDE.local.md
